@@ -3,4 +3,8 @@ class Dog
 end 
 
 fido = Dog.new 
-fido = Dog.name
+fido.name = 'fido'
+snoopy = Dog.new
+snoopy.name = 'snoopy'
+lassie = Dog.new 
+lassie.name = 'lassie'
